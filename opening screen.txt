@@ -55,7 +55,7 @@ activity_main.xml
 
 MainActivity.java 
 
-package com.example.splashscreen; 
+package com.example.openscreen; 
 import android.os.Bundle; 
 import android.os.Handler; 
 import android.view.View; 
