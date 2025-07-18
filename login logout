@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
         inputUsername = findViewById(R.id.input_username);
         inputPassword = findViewById(R.id.input_password);
         buttonLogin = findViewById(R.id.button_login);
-        loginResult = findViewById(R.id.login_result); // 🔴 Reference it here
+        loginResult = findViewById(R.id.login_result); 
 
         buttonLogin.setOnClickListener(new View.OnClickListener() {
             @Override
