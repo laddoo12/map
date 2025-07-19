@@ -29,7 +29,7 @@
             android:layout_marginTop="25dp"
             android:ems="10"
             android:inputType="text"
-            android:text="Enter the Name" />
+            android:hint="Enter the Name" />
 
         <TextView
             android:id="@+id/textView2"
@@ -54,7 +54,7 @@
             android:layout_marginTop="173dp"
             android:ems="10"
             android:inputType="text"
-            android:text="Enter the Password" />
+            android:hint="Enter the Password" />
 
         <Button
             android:id="@+id/button"
